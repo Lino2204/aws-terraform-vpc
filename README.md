@@ -1,2 +1,3 @@
-# aws-terraform-vpc
+# AWS Terraform VPC
+ 
 Create a basic infrastructure in AWS with Terraform
